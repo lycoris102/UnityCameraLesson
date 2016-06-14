@@ -106,7 +106,7 @@
 
 ## Cameraを使った演出
 ### SampleProject
-- FIXME
+- https://github.com/lycoris102/UnityCameraLesson/raw/master/UnityCameraLesson.unitypackage (32MB)
 
 ### SubCamera
 - アクション/レースゲームの右下に表示される俯瞰図
