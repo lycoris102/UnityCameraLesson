@@ -8,6 +8,9 @@
 - Cameraの演出を工夫すると「おっ」と思うゲームが出来る
 ```
 
+### SampleProject
+- https://github.com/lycoris102/UnityCameraLesson/raw/master/UnityCameraLesson.unitypackage (32MB)
+
 ## Camraとはなんぞや
 - プレイヤーへ実際にどのように見せるかはCameraによって決まる
 - 被写体への距離/画面効果などをこのConponentによって調整可能
@@ -105,9 +108,6 @@
   - 最近はVR用のCameraと観客にどのように見えているか見せるCameraへの割り当て
 
 ## Cameraを使った演出
-### SampleProject
-- https://github.com/lycoris102/UnityCameraLesson/raw/master/UnityCameraLesson.unitypackage (32MB)
-
 ### SubCamera
 - アクション/レースゲームの右下に表示される俯瞰図
 - 特定の形へのくり抜きの実装はステンシルバッファを使用する
